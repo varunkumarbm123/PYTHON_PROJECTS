@@ -1,0 +1,7 @@
+[project]
+name = "hirst-project"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "colorgram-py==1.2.0",
+]
